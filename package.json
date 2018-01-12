@@ -1,8 +1,7 @@
 {
-  "title": "Business Casual",
-  "name": "startbootstrap-business-casual",
+  "title": "Errands-R-Us",
+  "name": "Local Business PortAngeles",
   "version": "4.0.0-beta.2",
-  "description": "A casual HTML website theme for businesses built with Bootstrap",
   "keywords": [
     "css",
     "sass",
@@ -11,20 +10,12 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/business-casual",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-business-casual/issues",
-    "email": "feedback@startbootstrap.com"
-  },
+  "homepage": "",
+  
   "license": "MIT",
   "author": "Errands-R-Us",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-business-casual.git"
-  },
+  
+  
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
     "jquery": "^3.2.1"
